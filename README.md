@@ -1,4 +1,4 @@
-##Shopify API Integration with VTiger (Remix)##
+Shopify API Integration with VTiger (Remix)
 This project integrates the Shopify Admin API with VTiger CRM using Remix, a full-stack React framework. It fetches orders, customers, and products from Shopify and formats the data for synchronization with VTiger.
 Features
 
